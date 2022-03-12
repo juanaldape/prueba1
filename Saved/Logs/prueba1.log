@@ -941,3 +941,71 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.12-00.19.31:276][555]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/juan_/OneDrive/Escritorio/16032027864352.jpg)
 [2022.03.12-00.19.31:303][555]LogTexture: Display: Building textures: 16032027864352 (BGRA8, 990X557)
 [2022.03.12-00.19.31:329][555]LogEditorFactories: -- imported successfully
+[2022.03.12-00.22.47:806][726]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.12-00.22.47:814][726]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.12-00.22.47:824][726]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.12-00.22.50:097][863]LogContentBrowser: Attempting asset rename: NewBlueprint -> efwed
+[2022.03.12-00.22.50:100][863]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.12-00.22.52:911][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.12-00.22.53:138][ 30]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/FirstPersonExampleMapAEE2BBDD40E07C62E49A1D9126100505.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.12-00.22.53:629][ 30]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/FirstPersonExampleMap_BuiltData939770B640A6230F1BBF9BA85C85608E.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.12-00.22.53:637][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.12-00.22.53:637][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.12-00.22.53:637][ 30]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.12-00.23.08:668][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.03.12-00.23.08:705][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Captura" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPerson/Captura.uasset" SILENT=true
+[2022.03.12-00.23.08:722][641]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/Captura2FB59C924E294CEFA0D7109FEE1830CB.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPerson/Captura.uasset'
+[2022.03.12-00.23.08:725][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/16032027864352" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/16032027864352.uasset" SILENT=true
+[2022.03.12-00.23.08:772][641]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/16032027864352193D156946BCA31A3BB351BACFEE2D5F.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/16032027864352.uasset'
+[2022.03.12-00.23.08:773][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/efwed" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/efwed.uasset" SILENT=true
+[2022.03.12-00.23.08:842][641]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/efwed2D5914B744806BE0F2EF9C8BD66FD81C.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/efwed.uasset'
+[2022.03.12-00.23.08:854][641]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.12-00.23.08:854][641]LogContentValidation: Display: Validating Blueprint /Game/efwed.efwed
+[2022.03.12-00.23.08:854][641]LogContentValidation: Display: Validating Texture2D /Game/FirstPerson/Captura.Captura
+[2022.03.12-00.23.08:854][641]LogContentValidation: Display: Validating Texture2D /Game/16032027864352.16032027864352
+[2022.03.12-00.24.28:851][294]LogEditorFactories: Performing atomic reimport of [C:/Users/juan_/OneDrive/Escritorio/16032027864352.jpg]
+[2022.03.12-00.24.28:852][294]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/juan_/OneDrive/Escritorio/16032027864352.jpg)
+[2022.03.12-00.24.28:871][294]LogTexture: Display: Building textures: 16032027864352 (BGRA8, 990X557)
+[2022.03.12-00.24.28:894][294]LogEditorFactories: -- imported successfully
+[2022.03.12-00.24.34:429][614]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.12-00.24.42:521][689]LogSlate: Window 'Message' being destroyed
+[2022.03.12-00.24.42:527][689]Message dialog closed, result: Yes, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/16032027864352
+[2022.03.12-00.24.42:528][689]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/juan_/OneDrive/Escritorio/16032027864352.jpg)
+[2022.03.12-00.24.44:474][689]LogSlate: Window 'Message' being destroyed
+[2022.03.12-00.24.44:479][689]Message dialog closed, result: Yes, title: Message, text: You are about to import '16032027864352' over an existing texture. Would you like to overwrite the existing settings?
+
+Yes or Yes to All: Overwrite the existing settings.
+No or No to All: Preserve the existing settings.
+Cancel: Abort the operation.
+[2022.03.12-00.24.44:500][689]LogTexture: Display: Building textures: 16032027864352 (BGRA8, 990X557)
+[2022.03.12-00.25.03:086][108]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.12-00.25.03:092][108]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.12-00.25.03:107][108]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.12-00.25.05:843][273]LogContentBrowser: Attempting asset rename: NewBlueprint -> wdcwec3easc23
+[2022.03.12-00.25.05:847][273]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.12-00.25.08:010][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.12-00.25.08:221][399]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/FirstPersonExampleMapB1C38BE9432BFC407612BDB46CDE89C0.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.12-00.25.08:750][399]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/FirstPersonExampleMap_BuiltDataA6757E7A4EF85A4711FE4AABFD5B31CC.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.03.12-00.25.08:760][399]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.12-00.25.08:760][399]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.03.12-00.25.08:760][399]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.12-00.26.02:634][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wdcwec3easc23" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/wdcwec3easc23.uasset" SILENT=true
+[2022.03.12-00.26.02:637][517]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/wdcwec3easc23C2ADE9414528AD4FCCB8F3B5B58587FE.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/wdcwec3easc23.uasset'
+[2022.03.12-00.26.02:645][517]AssetCheck: New page: Asset Save: wdcwec3easc23
+[2022.03.12-00.26.02:645][517]LogContentValidation: Display: Validating Blueprint /Game/wdcwec3easc23.wdcwec3easc23
+[2022.03.12-00.26.07:352][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/16032027864352" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/16032027864352.uasset" SILENT=true
+[2022.03.12-00.26.07:398][785]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/1603202786435282CAA5564097B47CFE499CB1986C541F.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/16032027864352.uasset'
+[2022.03.12-00.26.07:406][785]AssetCheck: New page: Asset Save: 16032027864352
+[2022.03.12-00.26.07:406][785]LogContentValidation: Display: Validating Texture2D /Game/16032027864352.16032027864352
+[2022.03.12-00.26.55:872][713]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.12-00.26.55:879][713]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.12-00.26.55:888][713]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.12-00.26.57:159][790]LogContentBrowser: Attempting asset rename: NewBlueprint -> wqsdcqwec
+[2022.03.12-00.26.57:167][790]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.12-00.27.07:092][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.12-00.27.07:115][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/wqsdcqwec" FILE="../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/wqsdcqwec.uasset" SILENT=true
+[2022.03.12-00.27.07:118][370]LogSavePackage: Moving '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Saved/wqsdcqwec499EFCD34FC49B0679508AB52E4F8FDD.tmp' to '../../../../../../personal/facu/diseño de videjuegos en linea/prueba1/Content/wqsdcqwec.uasset'
+[2022.03.12-00.27.07:132][370]AssetCheck: New page: Asset Save: wqsdcqwec
+[2022.03.12-00.27.07:132][370]LogContentValidation: Display: Validating Blueprint /Game/wqsdcqwec.wqsdcqwec
